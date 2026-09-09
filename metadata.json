@@ -1,0 +1,6 @@
+{
+  "name": "X Board Keyboard Kotlin Gradle App",
+  "description": "Standard Android 8.0+ (API 26+) Kotlin Virtual Keyboard application built with Gradle, featuring 24 Unicode fancy fonts, 20 text styles, emoji drawer, word suggestions, and AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
