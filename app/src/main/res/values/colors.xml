@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="xboard_neon_green">#07F57E</color>
+    <color name="xboard_black">#000000</color>
+    <color name="xboard_dark_surface">#121214</color>
+    <color name="xboard_key_dark_gray">#202026</color>
+    <color name="xboard_key_pressed">#2C2C35</color>
+    <color name="xboard_white">#FFFFFF</color>
+    <color name="xboard_text_secondary">#8E8E98</color>
+</resources>
